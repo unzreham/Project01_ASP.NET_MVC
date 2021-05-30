@@ -15,7 +15,7 @@
 #### There is also a gallery that shows all places, on clicking on the display button it will display more information about the place. 
 ![Capture3](https://user-images.githubusercontent.com/82495629/120092278-6273d180-c11a-11eb-8c2c-289b7ba6cbac.PNG)
 
-##### Finally, this project made by using:
+##### Finally, this project created by using:
 * Asp.net core web app (mvc) 
 * EntityFrameworkcore.SQLServer
 * React  library
