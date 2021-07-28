@@ -2,6 +2,7 @@
 
 ## Top Sites in  Saudi Arabia 
 ### This webpage shows the most popular places recommended to any tourist who's planning to visit KSA. 
+https://placesksa.azurewebsites.net/
 
 
 #### There is a map to ease the search, for anyone interested to see these sites through the map.
